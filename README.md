@@ -1,2 +1,2 @@
-# zad_1
-zadanie_1 Volodymyr Bal
+# zad_1-6
+zadanie_1-6 Volodymyr Bal
